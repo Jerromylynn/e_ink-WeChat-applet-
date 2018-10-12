@@ -1,0 +1,2 @@
+<view><button name="PushMe bindtap='queryRequest'">点我</button></view>
+
